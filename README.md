@@ -1,5 +1,5 @@
 # Linear_Queue_Concept
-- covered all the concepts of stack using array
+- covered all the concepts of Queue using array
 - full menu......
 - . >>>>>>>>>>>>>>>>>The available options are:-<<<<<<<<<<<<<<<<
 -                     1. Insert() or EnQueue()
